@@ -1,1 +1,2 @@
-Install NodeJs from chrome
+Step 1.
+Install NodeJs from Chrome
