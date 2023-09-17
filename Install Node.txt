@@ -5,3 +5,4 @@ Go to Command Prompt
 *Type:- npx create-next-app
 *Project name: Lowercase
 hii
+This is updated from fork through skr0420
