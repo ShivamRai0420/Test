@@ -1,2 +1,5 @@
 Step 1.
 Install NodeJs from Chrome
+Step 2.
+Go to Command Prompt
+*npx create-next-app
