@@ -2,5 +2,6 @@ Step 1.
 Install NodeJs from Chrome
 Step 2.
 Go to Command Prompt
-*Type 1:- npx create-next-app
-hello buddy
+*Type:- npx create-next-app
+*Project name: Lowercase
+hii
